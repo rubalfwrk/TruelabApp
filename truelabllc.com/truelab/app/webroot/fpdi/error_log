@@ -1,0 +1,1 @@
+[09-May-2017 10:39:21 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home/rakesh/public_html/truelab/app/webroot/fpdi/FPDI_Protection.php on line 21

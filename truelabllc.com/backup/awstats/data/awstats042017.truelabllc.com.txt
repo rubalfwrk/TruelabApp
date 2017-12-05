@@ -1,0 +1,308 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201704 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1915                
+POS_TIME 2577                
+POS_VISITOR 6539                
+POS_DAY 7370                
+POS_DOMAIN 3145                
+POS_LOGIN 3410                
+POS_ROBOT 3565                
+POS_WORMS 3932                
+POS_EMAILSENDER 4063                
+POS_EMAILRECEIVER 4206                
+POS_SESSION 7848                
+POS_SIDER 8005                
+POS_FILETYPES 4341                
+POS_OS 4442                
+POS_BROWSER 4545                
+POS_SCREENSIZE 4726                
+POS_UNKNOWNREFERER 4800                
+POS_UNKNOWNREFERERBROWSER 4938                
+POS_ORIGIN 5020                
+POS_SEREFERRALS 5154                
+POS_PAGEREFS 5311                
+POS_SEARCHWORDS 5459                
+POS_KEYWORDS 5611                
+POS_MISC 2241                
+POS_ERRORS 5670                
+POS_CLUSTER 3266                
+POS_SIDER_404 5758                
+POS_PLUGIN_geoip_city_maxmind 5957                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170420183543 9 1493 0
+FirstTime 20170401043347
+LastTime 20170420043116
+LastUpdate 20170421065232 9 0 5 4 0
+TotalVisits 37                  
+TotalUnique 19                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 20                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 3 4 11343
+1 1 1 4149 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 20 40 206980 40 40 19880
+5 2 3 14498 2 2 497
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 2 2 8298 1 1 497
+9 0 0 0 1 1 4149
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 2 3 14498 6 8 26338
+13 0 0 0 2 2 4646
+14 0 0 0 2 2 4646
+15 0 0 0 9 11 30984
+16 0 0 0 0 0 0
+17 1 1 4149 3 3 12447
+18 1 1 4149 3 3 12447
+19 2 2 8298 2 2 497
+20 2 2 8298 0 0 0
+21 1 1 4149 4 4 9292
+22 1 1 4149 0 0 0
+23 3 12 74829 0 1 497
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+us 33 55 273317
+il 3 12 74829
+se 1 1 4149
+br 1 1 4149
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+googlebot 15 70439 20170412152659 0
+crawl 3 12447 20170420183543 0
+bot[+:,\.\;\/\\-] 2 10349 20170408003344 0
+core 1 4149 20170406093612 0
+surveybot 1 4149 20170417131411 0
+java 1 4149 20170411175658 0
+netcraft 1 4149 20170413145348 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+css 23 142600 0 0
+png 8 56182 0 0
+html 38 157662 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 7
+macosx 4
+winxp 3
+winlong 3
+win2003 2
+winnt 54
+Unknown 1
+linux 2
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 11
+msie8.0 1
+firefox25.0 1
+mozilla 1
+msie7.0 2
+opera 1
+firefox3.6.3 2
+msie9.0 42
+firefox49.0 2
+firefox24.0 1
+safari 15
+firefox27.3 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_(compatible;_ips-agent) 20170416081529
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 16 25
+From1 0 0
+From2 20 40
+From3 0 0
+From4 2 4
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 20 40
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 60 28329
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 4
+/images/bg_btn_grey.png 1 -
+/robots.txt 18 -
+/th1s_1s_a_4o4.html 20 http://www.google.com/url
+/about:blank 21 -
+END_SIDER_404
+
+# Plugin key - Pages - Hits - Bandwidth - Last access
+BEGIN_PLUGIN_geoip_city_maxmind 10
+us_chicago_il 0 40 0 0
+unknown 0 13 0 0
+il_binyamina_04 0 4 0 0
+us_san%20mateo_ca 0 4 0 0
+us_lake%20forest_ca 0 2 0 0
+us_washington_dc 0 2 0 0
+br_são%20paulo_27 0 1 0 0
+us_new%20york_ny 0 1 0 0
+us_reston_va 0 1 0 0
+us_woodbridge_nj 0 1 0 0
+END_PLUGIN_geoip_city_maxmind
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 20
+184.154.139.53 6 12 62094 20170420043116
+184.154.139.49 5 10 51745 20170408043458
+148.62.14.156 4 4 16596 20170417191737
+184.154.139.51 4 8 41396 20170418043037
+184.154.139.52 4 8 41396 20170419043650
+158.69.25.178 2 2 8298 20170417054805
+193.15.16.4 1 1 4149 20170407174442
+82.80.249.211 1 1 4149 20170409232818
+64.74.215.1 1 1 4149 20170411202901
+64.74.215.136 1 2 10349 20170410123814
+82.80.249.164 0 1 8889 
+54.232.242.208 1 1 4149 20170408080157
+64.74.215.50 1 1 4149 20170410224147
+54.198.179.106 1 1 4149 20170410012010
+69.58.178.58 1 1 4149 20170416081529
+184.154.139.50 1 2 10349 20170416043557
+82.80.249.156 1 2 10349 20170409232820
+50.117.89.222 1 1 4149 20170412125948
+82.80.230.228 1 8 51442 20170409213840
+38.100.21.69 1 2 10349 20170417055922
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 20
+20170401 1 2 10349 1
+20170402 1 2 10349 1
+20170403 4 5 22796 4
+20170404 1 2 10349 1
+20170405 1 2 10349 1
+20170406 1 2 10349 1
+20170407 2 3 14498 2
+20170408 2 3 14498 2
+20170409 4 14 85178 4
+20170410 4 6 28996 4
+20170411 2 3 14498 2
+20170412 2 3 14498 2
+20170413 1 2 10349 1
+20170414 1 2 10349 1
+20170415 1 2 10349 1
+20170416 2 3 14498 2
+20170417 5 7 33145 4
+20170418 1 2 10349 1
+20170419 1 2 10349 1
+20170420 1 2 10349 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 36
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 38 157662 37 37
+END_SIDER

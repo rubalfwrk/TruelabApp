@@ -1,0 +1,26 @@
+[05-May-2017 16:57:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'patients' (T_STRING) in /home/rakesh/public_html/truelab/app/Console/Command/MainShell.php on line 83
+[05-May-2017 16:57:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'patients' (T_STRING) in /home/rakesh/public_html/truelab/app/Console/Command/MainShell.php on line 83
+[05-May-2017 17:36:01 Asia/Kolkata] PHP Fatal error:  Call to undefined method MainShell::query() in /home/rakesh/public_html/truelab/app/Console/Command/MainShell.php on line 83
+[05-May-2017 17:37:01 Asia/Kolkata] PHP Fatal error:  Call to undefined method MainShell::query() in /home/rakesh/public_html/truelab/app/Console/Command/MainShell.php on line 83
+[05-May-2017 17:38:01 Asia/Kolkata] PHP Fatal error:  Call to undefined method MainShell::query() in /home/rakesh/public_html/truelab/app/Console/Command/MainShell.php on line 83
+[05-May-2017 17:39:01 Asia/Kolkata] PHP Fatal error:  Call to undefined method MainShell::query() in /home/rakesh/public_html/truelab/app/Console/Command/MainShell.php on line 83
+[05-May-2017 17:40:01 Asia/Kolkata] PHP Fatal error:  Call to undefined method MainShell::query() in /home/rakesh/public_html/truelab/app/Console/Command/MainShell.php on line 83
+[05-May-2017 17:41:01 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/rakesh/public_html/truelab/app/Console/Command/MainShell.php on line 83
+[05-May-2017 17:42:01 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/rakesh/public_html/truelab/app/Console/Command/MainShell.php on line 83
+[05-May-2017 17:43:01 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/rakesh/public_html/truelab/app/Console/Command/MainShell.php on line 83
+[05-May-2017 17:44:01 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/rakesh/public_html/truelab/app/Console/Command/MainShell.php on line 83
+[07-May-2017 19:02:01 Asia/Kolkata] PHP Fatal error:  Out of memory (allocated 1572864) (tried to allocate 3072 bytes) in /home/rakesh/public_html/truelab/lib/Cake/Log/Engine/FileLog.php on line 99
+[07-May-2017 19:02:01 Asia/Kolkata] PHP Fatal error:  Out of memory (allocated 1572864) (tried to allocate 3072 bytes) in /home/rakesh/public_html/truelab/lib/Cake/Log/Engine/FileLog.php on line 99
+[23-May-2017 14:57:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''User'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rakesh/public_html/truelab/app/Model/Patient.php on line 26
+[23-May-2017 14:58:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''User'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rakesh/public_html/truelab/app/Model/Patient.php on line 26
+[23-May-2017 14:59:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''User'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rakesh/public_html/truelab/app/Model/Patient.php on line 26
+[30-May-2017 18:48:01 Asia/Kolkata] PHP Fatal error:  Out of memory (allocated 3145728) (tried to allocate 12288 bytes) in /home/rakesh/public_html/truelab/app/Model/Model.php on line 1043
+[30-May-2017 18:48:01 Asia/Kolkata] PHP Fatal error:  Out of memory (allocated 2359296) (tried to allocate 4 bytes) in /home/rakesh/public_html/truelab/lib/Cake/I18n/L10n.php on line 244
+[31-May-2017 22:49:01 UTC] PHP Fatal error:  Out of memory (allocated 1048576) (tried to allocate 12288 bytes) in /home/rakesh/public_html/truelab/lib/Cake/Utility/Hash.php on line 223
+[31-May-2017 22:49:01 UTC] PHP Fatal error:  Out of memory (allocated 1048576) (tried to allocate 12288 bytes) in /home/rakesh/public_html/truelab/lib/Cake/Utility/Hash.php on line 223
+[01-Jun-2017 07:17:01 UTC] PHP Fatal error:  Out of memory (allocated 786432) (tried to allocate 248 bytes) in /home/rakesh/public_html/truelab/lib/Cake/Error/exceptions.php on line 449
+[01-Jun-2017 07:17:01 UTC] PHP Fatal error:  Out of memory (allocated 786432) (tried to allocate 72 bytes) in /home/rakesh/public_html/truelab/lib/Cake/Error/exceptions.php on line 449
+[02-Jun-2017 07:32:01 UTC] PHP Fatal error:  Out of memory (allocated 524288) (tried to allocate 640 bytes) in /home/rakesh/public_html/truelab/lib/Cake/Core/App.php on line 252
+[02-Jun-2017 07:32:01 UTC] PHP Fatal error:  Out of memory (allocated 262144) (tried to allocate 12288 bytes) in /home/rakesh/public_html/truelab/lib/Cake/Console/ShellDispatcher.php on line 135
+[02-Jun-2017 13:02:01 Asia/Kolkata] PHP Fatal error:  Out of memory (allocated 2621440) (tried to allocate 3072 bytes) in /home/rakesh/public_html/truelab/lib/Cake/I18n/L10n.php on line 331
+[02-Jun-2017 14:11:01 UTC] PHP Fatal error:  Out of memory (allocated 524288) (tried to allocate 640 bytes) in /home/rakesh/public_html/truelab/lib/Cake/Core/App.php on line 252

@@ -1,0 +1,412 @@
+#flashMessage {
+    width: 254px;
+    float: none;
+    margin: 0 auto 15px auto;
+    background-color: #52bed9;
+    color: #fff;
+    text-align: center;
+    display: table;
+    border-radius: 7px;
+    padding: 12px;
+    font-size: 19px;
+}
+
+.login_page{
+
+	padding: 0px;
+
+	width: 100%;
+
+	float: left;
+
+	position: fixed;
+
+	top: 0;
+
+	left: 0;
+
+	right: 0;
+
+	bottom: 0;
+
+	background: url('../img/bg1.jpg');
+
+	background-size: cover;
+
+	background-repeat: no-repeat; 
+
+}
+
+.login_page #page-content-wrapper{
+
+	padding: 87px 0px;
+
+	background: none;
+
+}
+
+.login_page .content,
+
+.login_page .login_outer{
+
+	background: none !important;
+
+}
+
+.login_page .login_frm{
+
+	float:left;
+
+	box-shadow:1px 1px 3px #ccc, -1px -1px 3px #ccc;
+
+	position: relative;
+
+	padding-top: 90px;
+
+	margin-top: 75px;
+
+}
+
+.login_page .avatar_wrap{
+
+	height: 150px;
+
+	width: 150px;
+
+	border-radius: 50%;
+
+	position: absolute;
+
+	left: 0;
+
+	right: 0;
+
+	top: -75px;
+
+	margin: auto;
+
+	overflow: hidden;
+
+	border: 2px solid #ddd;
+
+}
+
+.login_page .avatar_wrap img{
+
+	height: 100%;
+
+}
+
+.login_page .login_frm h3{
+
+	font-size: 27px;
+
+	color: #52bed9;
+
+	font-weight: normal;
+
+	padding-bottom: 30px;
+
+    margin-bottom: 30px;
+
+}
+
+.login_page .login_frm form{
+
+	width: 100%;
+
+	float: left;
+
+}
+
+.login_page .login_frm label{
+
+	width: 100%;
+
+	float: left;
+
+	margin-bottom: 11px;
+
+	font-weight: normal;
+
+}
+
+.login_page .login_frm .form-control{
+
+	border-radius: 0px;
+
+	box-shadow: none;
+
+}
+
+.login_page .login_frm .input{
+
+	width: 100%;
+
+	float: left;
+
+	margin-bottom: 15px;
+
+}
+
+.login_page .login_frm button{
+
+	float: right;
+
+	background-color: #52bed9;
+
+	border-color: #52bed9;
+
+	border-radius: 0px;
+
+	width: 100%;
+
+	text-transform: uppercase;
+
+	box-shadow: none;
+
+}
+
+.login_page .login_frm button:hover,
+
+.login_page .login_frm button:focus{
+
+	background-color: #52bed9;
+
+	border-color: #52bed9;
+
+	box-shadow: none;
+
+}
+
+/*inner Page Css Include Here
+
+=============================*/
+
+.box-header{
+
+	padding: 10px 0px;
+
+}
+
+h3.box-title{
+
+	display: block !important;
+
+    font-size: 23px !important;
+
+    margin-bottom: 25px !important;
+
+}
+
+.div.dataTables_wrapper div.dataTables_length label{
+
+	width: 100%;
+
+	display: table;
+
+}
+
+div.dataTables_wrapper div.dataTables_length select{
+
+	width: 200px !important;
+
+	margin: 0px 7px;
+
+}
+
+div.dataTables_wrapper div.dataTables_filter label{
+
+	width: 100%;
+
+	display: table;
+
+	text-align: right !important;
+
+}
+
+div.dataTables_wrapper div.dataTables_filter input{
+
+	width: 200px !important;
+
+	margin: 0px 0px 0px 7px;
+
+}
+
+.example_wrapper{
+
+	width: 100%;
+
+	display: table;
+
+}
+
+td.actions a.btn{
+
+	padding: 7px 13px;
+
+	font-size: 16px;
+
+}
+
+.top-btn{
+
+	width: 100%;
+
+	float: left;
+
+	margin-bottom: 15px;
+
+}
+
+.input{
+
+	width: 100%;
+
+	float: left;
+
+	margin-bottom: 15px;
+
+}
+
+.input label{
+
+	width: 100%;
+
+	float: left;
+
+	margin-bottom: 11px;
+
+}
+/*------------------changes---------------------------*/
+.datepicker > .datepicker_header > .icon-close {
+  
+    right: 13px !important;
+}
+
+@media screen and (max-width:320px) {
+ /*IPhone portrait and smaller. You can probably stop on 320px*/
+#page-content-wrapper{
+	 padding-top: 20px!important;
+}
+#page-content-wrapper .login_frm {
+    margin-top: 0 !important;
+    padding-top: 0;
+}
+#page-content-wrapper .login_frm h3 {
+    font-size: 0 !important;
+    padding: 0 !important;
+    margin: 0 0 10px 0 !important;
+}
+.datepicker{
+width: 78% !important;
+display: inline-block;
+margin-left: 38px;
+margin-top: 30%;
+
+}
+.datepicker > .datepicker_inner_container{
+	max-height: 232px;
+    overflow: scroll;
+
+}
+
+.m-signature-pad--footer {
+    position: absolute;
+    left: 0px !important;
+    right: 0px !important;
+    bottom: 20px;
+    height: 60px;
+}
+.m-signature-pad--footer .description {
+    color: #000;
+    text-align: center;
+    font-size: 14px !important;
+    margin-top: 1em;
+	margin-left: -43px !important;
+}
+
+} 
+.modal .modal-dialog input[type="submit"] {
+    background-color: #3c8dbc;
+    color: #fff;
+    border: 1px solid #367fa9;
+    padding: 5px 18px;
+    border-radius: 4px;
+    margin-top: 0;
+    float: right;
+} 
+.modal .modal-header{
+    background: #3c8dbc;
+    color: #fff;
+} 
+.modal .modal-title{
+	font-weight: 800;
+}
+.close {
+   
+    color: #fff;
+    text-shadow: 0 1px 0 #333030;
+    filter: alpha(opacity=100);
+    opacity: 1;
+} 
+.modal input[type="submit"] {
+    background-color: #3c8dbc;
+    color: #fff;
+    border: 1px solid #367fa9;
+    padding: 5px 18px;
+    border-radius: 4px;
+    margin-top: 0;
+    float: right;
+}
+div#datetimepicker1 {
+    float: left;
+    width: 82%;
+}
+.modal .modal-footer .btn{
+	color: #fff;
+    background-color: #398439;
+    border-color: #255625;
+	}
+.modal .input-group.date {
+    width: 100%;
+}	
+.modal .modal-body {
+    position: relative;
+    padding: 15px 15px 29px 15px;
+}
+.modal textarea {
+	width: 100%;
+}
+.modal .input-group.date {
+    width: 100%;
+}	
+.modal .modal-body {
+    position: relative;
+    padding: 15px 15px 29px 15px;
+}
+.modal textarea {
+	width: 100%;
+}
+
+.modal .input-group.date {
+    float: left;
+    margin-top: 7px;
+    width: 100%;
+	margin-bottom: 7px;
+}
+.modal .input-group.date textarea {
+    
+    width: 100%;
+}
+.modal div#datetimepicker1 {
+    float: left;
+    width: 100%;
+}
+.modal .modal-body {
+    float: left;
+}
+.my-btn-primary{
+	margin-bottom: 2px !important;
+}
+

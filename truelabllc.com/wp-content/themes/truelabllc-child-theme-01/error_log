@@ -1,0 +1,3 @@
+[14-Apr-2017 07:17:08 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/ashutosh/public_html/truelabllc/wp-content/themes/truelabllc-child-theme-01/about-us.php on line 6
+[14-Apr-2017 07:17:50 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/ashutosh/public_html/truelabllc/wp-content/themes/truelabllc-child-theme-01/about-us.php on line 6
+[14-Apr-2017 07:18:01 America/Chicago] PHP Fatal error:  Call to undefined function wp_header() in /home/ashutosh/public_html/truelabllc/wp-content/themes/truelabllc-child-theme-01/index.php on line 11
